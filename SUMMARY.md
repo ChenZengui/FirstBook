@@ -1,6 +1,5 @@
 # 目录
 
-* [Introduction](RD.md)
 * [介绍](RD.md)
 * [Markdown入门](MarkDown/RD.md)
     - [语法](MarkDown/MarkDownGramme.md)
