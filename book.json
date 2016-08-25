@@ -1,5 +1,7 @@
 {
-    "title":"我的学习总结",
+    "title": "我的学习总结",
+    "author": "陈曾辉",
+    "discription": "学习总结",
 
     "plugins": [],
     "gitbook": ">=3.0.0",
