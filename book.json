@@ -7,7 +7,7 @@
     "gitbook": ">=3.0.0",
     "language": "zh",
     "structure": { 
-        "readme": "README.md",
+        "readme": "RD.md",
         "summary": "SUMMARY.md"
     }
 }
