@@ -1,0 +1,6 @@
+Redis支持的数据类型包括
+- string(字符串)
+- hash(哈希)
+- list(列表)
+- set(集合)
+- zset(有序集合)
