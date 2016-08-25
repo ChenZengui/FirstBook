@@ -73,13 +73,6 @@
 
     代码文本需要写在``里边。
 
-
-这里是代码行：
-
-    void int print(int a, int b)
-
-    
-
     
 
 
