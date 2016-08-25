@@ -1,8 +1,11 @@
 {
+    "title":"我的学习总结",
+
     "plugins": [],
     "gitbook": ">=3.0.0",
     "language": "zh",
     "structure": { 
-        "readme": "README.md" 
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
     }
 }
