@@ -1,5 +1,5 @@
 {
-    "plugins": []，
+    "plugins": [],
     "gitbook": ">=3.0.0",
     "language": "zh",
     "structure": { 
